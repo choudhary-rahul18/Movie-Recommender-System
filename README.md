@@ -10,7 +10,6 @@ This is a content-based Movie Recommender System built using **Python**, **Panda
 | `tmdb_5000_movies.csv` | Movie metadata from TMDB |
 | `tmdb_5000_credits.csv` | Cast and crew data |
 | `movies.pkl` | Pickle file of the cleaned and processed movie dataset |
-| `similarity.pkl` | Pickle file of the cosine similarity matrix |
 | `movies_dict.pkl` | Dictionary version of the movie dataset for easy lookup |
 
 ## Features Used for Recommendation
